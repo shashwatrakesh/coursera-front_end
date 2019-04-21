@@ -2,6 +2,7 @@
   box-sizing: border-box;
     margin: 0;
   padding: 0;
+
 }
 h1 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
@@ -153,6 +154,7 @@ h1 {
   }
   .col-md-12 {
     width: 100%;
+    box-sizing: content-box;
   }
 }
 
